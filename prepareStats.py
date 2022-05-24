@@ -1,3 +1,10 @@
+#!/usr/bin/env python
+
+"""
+Don't repeat yourself, they say. So this is the stuff that goes in the beginning of all my 
+Jupyter Notebooks exploring various F1 statistics. https://github.com/michalkasparek/f1-stats/
+"""
+
 import pandas as pd
 import matplotlib
 import os
