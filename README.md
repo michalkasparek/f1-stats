@@ -1,5 +1,8 @@
 Trying to dive into [pandas](https://pandas.pydata.org/) and [Jupyter Notebook](https://jupyter.org/). Is there anything better to play with than the historical F1 results?
 
+I fed the ```data/``` folder with these CSVs: [www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020](https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020).
+
+
                                         d88b
                         _______________|8888|_______________
                         |_____________ ,~~~~~~. _____________|
