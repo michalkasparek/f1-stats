@@ -20,6 +20,7 @@ Asia = ["Chinese", "Indian", "Indonesian", "Japanese", "Malaysian", "Thai", "Hon
 Africa = ["Rhodesian", "South African"]
 Oceania = ["Australian", "New Zealander"]
 multiple = ["American-Italian", "Argentine-Italian"]
+streetCircuits = ["Melbourne", "Monte-Carlo", "Montreal", "Valencia", "Marina Bay", "Sochi", "Baku", "Jeddah", "Adelaide", "Phoenix", "Detroit", "Dallas", "Nevada", "California", "Oporto", "Lisbon"]
 
 # Now let's load the stats. Source: https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020
 
@@ -43,8 +44,8 @@ results = results.merge(constructors, on="constructorId", how="right")
 results["fullname"] = results["forename"] + " " + results["surname"]
 results["date"] = results["date"].str.slice(0,6) + results["year"].astype(str).str.slice(0,4)
 results["date"] = pd.to_datetime(results["date"], format="%d/%m/%Y")
-results["year"] = results["year"].astype(float)
-results["round"] = results["round"].astype(float)
+results["year"] = results["year"].apply(pd.to_numeric, errors = "coerce").astype(int, errors="ignore")
+results["round"] = results["round"].apply(pd.to_numeric, errors = "coerce").astype(int, errors="ignore")
 results["position"] = results["position"].apply(pd.to_numeric, errors = "coerce").astype(int, errors="ignore")
 
 # Make some new columns
@@ -60,6 +61,8 @@ results.loc[results.nationality_x.isin(Asia),"driverContinent"]="Asia"
 results.loc[results.nationality_x.isin(Africa),"driverContinent"]="Africa"
 results.loc[results.nationality_x.isin(Oceania),"driverContinent"]="Oceania"
 results.loc[results.nationality_x.isin(multiple),"driverContinent"]="multiple"
+
+results.loc[results.location.isin(streetCircuits),"street"]=True
 
 entries = pd.Series(results.groupby(["driverId"]).size(), name="entries")
 results = results.merge(entries, on = ["driverId"], how = "right")

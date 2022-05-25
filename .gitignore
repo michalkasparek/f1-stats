@@ -2,3 +2,6 @@ _smetí/
 data/
 *checkpoint*
 *.pyc
+Data Exploration.ipynb
+__pycache__
+launch.bat
