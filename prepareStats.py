@@ -14,6 +14,7 @@ import numpy as np
 
 unknownResult = ["nan0n", "NaN", "NA", "inf"]
 crashes = ["Accident", "Collision", "Fatal accident", "Collision damage", "Spun off"]
+dnqs = ["Did not qualify", "Did not prequalify", "107% Rule"]
 
 Europe = ["Austria", "Austrian", "Azerbaijan", "Belgian", "Belgium", "British", "Czech", "Danish", "Dutch", "East German", "Finnish", "France", "French", "German", "Germany", "Hungarian", "Hungary", "Irish", "Italian", "Italy", "Liechtensteiner", "Monaco", "Monegasque", "Netherlands", "Polish", "Portugal", "Portuguese", "Russia", "Russian", "Spanish", "Spain", "Sweden", "Swedish", "Swiss", "Switzerland", "Turkey", "UK"]
 NAmerica = ["American", "Canada", "Canadian", "Mexican", "Mexico", "USA"]
@@ -22,10 +23,11 @@ Asia = ["Bahrain", "Chinese", "China", "Hong Kong", "India", "Indian", "Indonesi
 Africa = ["Morocco", "Rhodesian", "South Africa", "South African"]
 Oceania = ["Australia", "Australian", "New Zealander"]
 multiple = ["American-Italian", "Argentine-Italian"]
+westernEurope = ["Austria", "Belgium", "Germany", "France", "Italy", "Monaco", "Netherlands", "Portugal", "Spain", "Sweden", "Switzerland", "UK"]
 
 streetCircuits = ["Melbourne", "Monte-Carlo", "Montreal", "Valencia", "Marina Bay", "Sochi", "Baku", "Jeddah", "Adelaide", "Phoenix", "Detroit", "Dallas", "Nevada", "California", "Oporto", "Lisbon"]
 
-# Now let's load the stats (source: https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020)
+# Now we're gonna load the stats… (source: http://ergast.com/mrd/db/#csv)
 
 drivers = pd.read_csv(os.path.join("data", "drivers.csv"))
 results = pd.read_csv(os.path.join("data", "results.csv"))
@@ -34,7 +36,7 @@ circuits = pd.read_csv(os.path.join("data", "circuits.csv"))
 status = pd.read_csv(os.path.join("data", "status.csv"))
 constructors = pd.read_csv(os.path.join("data", "constructors.csv"))
 
-# Merge all the tables into a single dataframe
+# …merge all the tables into a single dataframe…
 
 results = results.merge(drivers, on="driverId", how="right")
 races = races.merge(circuits, on="circuitId", how="right")
@@ -42,17 +44,16 @@ results = results.merge(races, on="raceId", how="right")
 results = results.merge(status, on="statusId", how="right")
 results = results.merge(constructors, on="constructorId", how="right")
 
-# Make the columns more useful 
+# …make the columns more useful…
 
 results["fullname"] = results["forename"] + " " + results["surname"]
-results["date"] = results["date"].str.slice(0,6) + results["year"].astype(str).str.slice(0,4)
-results["date"] = pd.to_datetime(results["date"], format="%d/%m/%Y")
+results["date"] = pd.to_datetime(results["date"], format="%Y-%m-%d")
 results["year"] = results["year"].apply(pd.to_numeric, errors = "coerce").astype(np.int64, errors="ignore")
 results["round"] = results["round"].apply(pd.to_numeric, errors = "coerce").astype(np.int64, errors="ignore")
 results["position"] = results["position"].apply(pd.to_numeric, errors = "coerce").astype(np.int64, errors="ignore")
 results["fastestLapSpeed"] = results["fastestLapSpeed"].apply(pd.to_numeric, errors = "coerce").astype(np.int64, errors="ignore")
 
-# Make some new columns
+# …and create some new columns.
 
 results["year_round"] = results["year"].astype(str).str.slice(0,4) + results["round"].astype(str).str.slice(0,-2).str.zfill(2)
 results = results[~results.year_round.isin(unknownResult)]
@@ -71,7 +72,7 @@ results.loc[results.location.isin(streetCircuits),"street"]=True
 entries = pd.Series(results.groupby(["driverId"]).size(), name="entries")
 results = results.merge(entries, on = ["driverId"], how = "right")
 
-# Split the main dataframe for wins, podiums and top 6 finishes only 
+# Now split the main dataframe for wins, podiums and top 6 finishes only 
 
 wins = results[results["position"] == 1]
 podiums = results[results["position"] < 4]
@@ -79,5 +80,5 @@ top6 = results[results["position"] < 7]
 
 # Finally let's give the plots some swag
 
-plt.style.use('_mpl-gallery')
+plt.style.use("_mpl-gallery")
 plt.rcParams["figure.figsize"] = (20,3)
