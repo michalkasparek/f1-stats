@@ -1,7 +1,12 @@
 _smetí/
-data/
+dataErgast/
 *checkpoint*
 *.pyc
 Data Exploration.ipynb
+Current Drivers.ipynb
+Vanilla.ipynb
+Numbers.ipynb
+Data Exploration 2.ipynb
+Qualifying.ipynb
 __pycache__
 launch.bat
