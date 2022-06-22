@@ -44,7 +44,7 @@ results = results.merge(status, on="statusId", how="inner")
 constructors["constructor"] = constructors["name"]
 constructors["constructorUrl"] = constructors["url"]
 constructors["constructorNationality"] = constructors["nationality"]
-results = results.merge(constructors[["constructorId", "constructor", "constructorNationality"]], on="constructorId", how="inner")
+results = results.merge(constructors[["constructorId", "constructor", "constructorNationality", "constructorRef"]], on="constructorId", how="inner")
 
 # …make the columns more useful…
 
@@ -86,7 +86,8 @@ lastGP = str(lastGP["year"]) + " " + str(lastGP["gp"])
 firstGPdrivers = results[results["date"] == firstGPdate].name.tolist()
 lastGPdrivers = results[results["date"] == lastGPdate].name.tolist()
 currentSeason = results["year"].max()
-currentDrivers = results[results["year"] == currentSeason].name.tolist()
+currentDrivers = results[results["year"] == currentSeason].name.drop_duplicates().tolist()
+currentConstructors = results[results["year"] == currentSeason].constructor.drop_duplicates().tolist()
 
 # Now split the main dataframe for wins, podiums and top 6 finishes only 
 

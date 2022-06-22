@@ -12,7 +12,7 @@ Fun facts found so far:
 
 - Michael Andretti had a 46percent chance of ending his race in a crash. That's the highest rate among drivers with at least 10 entries.
 
-- Since 2007, drivers have a better chance to win from the pole in Monza, Spa or Montreal than in Monaco.
+- Since 2007, polesitters have better chances for a win in Monza, Spa or Montreal than in Monaco.
 
 Sources:
 
