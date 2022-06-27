@@ -10,6 +10,7 @@ import numpy as np
 unknownResult = ["nan0n", "NaN", "NA", "inf"]
 crashes = ["Accident", "Collision", "Fatal accident", "Collision damage", "Spun off"]
 dnqs = ["Did not qualify", "Did not prequalify", "107% Rule"]
+dns = ["Did not qualify", "Did not prequalify", "107% Rule", "Safety", "Injured", "Not restarted", "Launch control", "Safety concerns", "Underweight"]
 
 Europe = ["Austria", "Austrian", "Azerbaijan", "Belgian", "Belgium", "British", "Czech", "Danish", "Dutch", "East German", "Finnish", "France", "French", "German", "Germany", "Hungarian", "Hungary", "Irish", "Italian", "Italy", "Liechtensteiner", "Monaco", "Monegasque", "Netherlands", "Polish", "Portugal", "Portuguese", "Russia", "Russian", "Spanish", "Spain", "Sweden", "Swedish", "Swiss", "Switzerland", "Turkey", "UK"]
 NAmerica = ["American", "Canada", "Canadian", "Mexican", "Mexico", "USA"]
