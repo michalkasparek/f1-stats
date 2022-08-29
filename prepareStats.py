@@ -116,4 +116,4 @@ plt.rcParams["figure.figsize"] = (20,3)
 
 # Say hi
 
-print("Last GP in the database: " + lastGP)
+print("Last GP in the database: the " + lastGP)
