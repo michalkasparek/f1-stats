@@ -12,7 +12,7 @@ Fun facts found so far:
 
 - Max Verstappen is the first World Champion with Farina Number 7 – which means 7 degrees of separation between him and Giuseppe "Nino" Farina, the first race winner and World Champion. (Nino Farina was number 0; Maurice Trintignant was the last driver with FN 1, competing directly with Nino; Chris Amon was the last driver with FN 2, Alan Jones with FN 3 etc.)
 
-- From 1967 to 2012, there was at least one active driver in F1 each season that had raced against Jan Lammers, Nelson Piquet, and Riccardo Patrese. This record will most likely fall on 2022 Singapore GP, with Jean Alesi, Eddie Irvine, Mika Häkkinen, Luca Badoer, Rubens Barrichello,	and Michael Schumacher having the new longest "extended lifespan", going from 1977 to 2022.
+- From 1967 to 2012, there was at least one active driver in F1 each season that had raced against Jan Lammers, Nelson Piquet, and Riccardo Patrese. This record was broken in 2022 Singapore GP, with Jean Alesi, Eddie Irvine, Mika Häkkinen, Luca Badoer, Rubens Barrichello, and Michael Schumacher having the new longest "extended lifespan", going from 1977 to 2022.
 
 - Since 2007, polesitters have been more likely to win in Monza, Spa or Montreal than in Monaco.
 

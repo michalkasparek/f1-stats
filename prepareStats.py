@@ -23,7 +23,7 @@ Oceania = ["Australia", "Australian", "New Zealander"]
 multiple = ["American-Italian", "Argentine-Italian"]
 westernEurope = ["Austria", "Belgium", "Germany", "France", "Italy", "Monaco", "Netherlands", "Portugal", "Spain", "Sweden", "Switzerland", "UK"]
 
-streetCircuits = ["Melbourne", "Monte-Carlo", "Montreal", "Valencia", "Marina Bay", "Sochi", "Baku", "Jeddah", "Adelaide", "Phoenix", "Detroit", "Dallas", "Nevada", "California", "Oporto", "Lisbon"]
+streetCircuits = ["Melbourne", "Miami", "Monte-Carlo", "Montreal", "Valencia", "Marina Bay", "Sochi", "Baku", "Jeddah", "Adelaide", "Phoenix", "Detroit", "Dallas", "Nevada", "California", "Oporto", "Lisbon"]
 
 # Now we're gonna load the stats… (source: http://ergast.com/mrd/db/#csv):
 
