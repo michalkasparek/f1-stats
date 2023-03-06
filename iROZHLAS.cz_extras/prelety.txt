@@ -1,0 +1,1176 @@
+SEZÓNA 1950
+Silverstone → Monte-Carlo: 1119 km
+Monte-Carlo → Indianapolis: 7336 km
+Indianapolis → Bern: 7143 km
+Bern → Spa: 400 km
+Spa → Reims: 196 km
+Reims → Monza: 570 km
+Total: 16767 km
+SEZÓNA 1951
+Bern → Indianapolis: 7143 km
+Indianapolis → Spa: 6857 km
+Spa → Reims: 196 km
+Reims → Silverstone: 469 km
+Silverstone → Nürburg: 587 km
+Nürburg → Monza: 552 km
+Monza → Barcelona: 743 km
+Total: 16550 km
+SEZÓNA 1952
+Bern → Indianapolis: 7143 km
+Indianapolis → Spa: 6857 km
+Spa → Rouen: 376 km
+Rouen → Silverstone: 337 km
+Silverstone → Nürburg: 587 km
+Nürburg → Zandvoort: 282 km
+Zandvoort → Monza: 828 km
+Total: 16412 km
+SEZÓNA 1953
+Buenos Aires → Indianapolis: 8759 km
+Indianapolis → Zandvoort: 6666 km
+Zandvoort → Spa: 238 km
+Spa → Reims: 196 km
+Reims → Silverstone: 469 km
+Silverstone → Nürburg: 587 km
+Nürburg → Bern: 376 km
+Bern → Monza: 207 km
+Total: 17502 km
+SEZÓNA 1954
+Buenos Aires → Indianapolis: 8759 km
+Indianapolis → Spa: 6857 km
+Spa → Reims: 196 km
+Reims → Silverstone: 469 km
+Silverstone → Nürburg: 587 km
+Nürburg → Bern: 376 km
+Bern → Monza: 207 km
+Monza → Barcelona: 743 km
+Total: 18198 km
+SEZÓNA 1955
+Buenos Aires → Monte-Carlo: 10971 km
+Monte-Carlo → Indianapolis: 7336 km
+Indianapolis → Spa: 6857 km
+Spa → Zandvoort: 238 km
+Zandvoort → Liverpool: 515 km
+Liverpool → Monza: 1238 km
+Total: 27157 km
+SEZÓNA 1956
+Buenos Aires → Monte-Carlo: 10971 km
+Monte-Carlo → Indianapolis: 7336 km
+Indianapolis → Spa: 6857 km
+Spa → Reims: 196 km
+Reims → Silverstone: 469 km
+Silverstone → Nürburg: 587 km
+Nürburg → Monza: 552 km
+Total: 26971 km
+SEZÓNA 1957
+Buenos Aires → Monte-Carlo: 10971 km
+Monte-Carlo → Indianapolis: 7336 km
+Indianapolis → Rouen: 6601 km
+Rouen → Liverpool: 535 km
+Liverpool → Nürburg: 762 km
+Nürburg → Pescara: 1032 km
+Pescara → Monza: 522 km
+Total: 27762 km
+SEZÓNA 1958
+Buenos Aires → Monte-Carlo: 10971 km
+Monte-Carlo → Zandvoort: 985 km
+Zandvoort → Indianapolis: 6666 km
+Indianapolis → Spa: 6857 km
+Spa → Reims: 196 km
+Reims → Silverstone: 469 km
+Silverstone → Nürburg: 587 km
+Nürburg → Oporto: 1577 km
+Oporto → Monza: 1528 km
+Monza → Casablanca: 1968 km
+Total: 31809 km
+SEZÓNA 1959
+Monte-Carlo → Indianapolis: 7336 km
+Indianapolis → Zandvoort: 6666 km
+Zandvoort → Reims: 351 km
+Reims → Liverpool: 668 km
+Liverpool → Berlin: 1087 km
+Berlin → Lisbon: 2304 km
+Lisbon → Monza: 1699 km
+Monza → Florida: 7914 km
+Total: 28029 km
+SEZÓNA 1960
+Buenos Aires → Monte-Carlo: 10971 km
+Monte-Carlo → Indianapolis: 7336 km
+Indianapolis → Zandvoort: 6666 km
+Zandvoort → Spa: 238 km
+Spa → Reims: 196 km
+Reims → Silverstone: 469 km
+Silverstone → Oporto: 1344 km
+Oporto → Monza: 1528 km
+Monza → California: 9730 km
+Total: 38483 km
+SEZÓNA 1961
+Monte-Carlo → Zandvoort: 985 km
+Zandvoort → Spa: 238 km
+Spa → Reims: 196 km
+Reims → Liverpool: 668 km
+Liverpool → Nürburg: 762 km
+Nürburg → Monza: 552 km
+Monza → New York State: 6557 km
+Total: 9961 km
+SEZÓNA 1962
+Zandvoort → Monte-Carlo: 985 km
+Monte-Carlo → Spa: 753 km
+Spa → Rouen: 376 km
+Rouen → Liverpool: 535 km
+Liverpool → Nürburg: 762 km
+Nürburg → Monza: 552 km
+Monza → New York State: 6557 km
+New York State → Eastern Cape Province: 13533 km
+Total: 24056 km
+SEZÓNA 1963
+Monte-Carlo → Spa: 753 km
+Spa → Zandvoort: 238 km
+Zandvoort → Reims: 351 km
+Reims → Silverstone: 469 km
+Silverstone → Nürburg: 587 km
+Nürburg → Monza: 552 km
+Monza → New York State: 6557 km
+New York State → Mexico City: 3291 km
+Mexico City → Eastern Cape Province: 14570 km
+Total: 27372 km
+SEZÓNA 1964
+Monte-Carlo → Zandvoort: 985 km
+Zandvoort → Spa: 238 km
+Spa → Rouen: 376 km
+Rouen → Kent: 231 km
+Kent → Nürburg: 482 km
+Nürburg → Styria: 668 km
+Styria → Monza: 454 km
+Monza → New York State: 6557 km
+New York State → Mexico City: 3291 km
+Total: 13287 km
+SEZÓNA 1965
+Eastern Cape Province → Monte-Carlo: 8786 km
+Monte-Carlo → Spa: 753 km
+Spa → Clermont-Ferrand: 565 km
+Clermont-Ferrand → Silverstone: 763 km
+Silverstone → Zandvoort: 379 km
+Zandvoort → Nürburg: 282 km
+Nürburg → Monza: 552 km
+Monza → New York State: 6557 km
+New York State → Mexico City: 3291 km
+Total: 21933 km
+SEZÓNA 1966
+Monte-Carlo → Spa: 753 km
+Spa → Reims: 196 km
+Reims → Kent: 349 km
+Kent → Zandvoort: 315 km
+Zandvoort → Nürburg: 282 km
+Nürburg → Monza: 552 km
+Monza → New York State: 6557 km
+New York State → Mexico City: 3291 km
+Total: 12299 km
+SEZÓNA 1967
+Midrand → Monte-Carlo: 8034 km
+Monte-Carlo → Zandvoort: 985 km
+Zandvoort → Spa: 238 km
+Spa → Le Mans: 500 km
+Le Mans → Silverstone: 467 km
+Silverstone → Nürburg: 587 km
+Nürburg → Ontario: 6141 km
+Ontario → Monza: 6562 km
+Monza → New York State: 6557 km
+New York State → Mexico City: 3291 km
+Total: 33367 km
+SEZÓNA 1968
+Midrand → Madrid: 8096 km
+Madrid → Monte-Carlo: 970 km
+Monte-Carlo → Spa: 753 km
+Spa → Zandvoort: 238 km
+Zandvoort → Rouen: 420 km
+Rouen → Kent: 231 km
+Kent → Nürburg: 482 km
+Nürburg → Monza: 552 km
+Monza → Quebec: 6164 km
+Quebec → New York State: 466 km
+New York State → Mexico City: 3291 km
+Total: 21669 km
+SEZÓNA 1969
+Midrand → Barcelona: 7951 km
+Barcelona → Monte-Carlo: 505 km
+Monte-Carlo → Zandvoort: 985 km
+Zandvoort → Clermont-Ferrand: 746 km
+Clermont-Ferrand → Silverstone: 763 km
+Silverstone → Nürburg: 587 km
+Nürburg → Monza: 552 km
+Monza → Ontario: 6562 km
+Ontario → New York State: 237 km
+New York State → Mexico City: 3291 km
+Total: 22184 km
+SEZÓNA 1970
+Midrand → Madrid: 8096 km
+Madrid → Monte-Carlo: 970 km
+Monte-Carlo → Spa: 753 km
+Spa → Zandvoort: 238 km
+Zandvoort → Clermont-Ferrand: 746 km
+Clermont-Ferrand → Kent: 656 km
+Kent → Hockenheim: 630 km
+Hockenheim → Spielberg: 514 km
+Spielberg → Monza: 456 km
+Monza → Quebec: 6164 km
+Quebec → New York State: 466 km
+New York State → Mexico City: 3291 km
+Total: 22986 km
+SEZÓNA 1971
+Midrand → Barcelona: 7951 km
+Barcelona → Monte-Carlo: 505 km
+Monte-Carlo → Zandvoort: 985 km
+Zandvoort → Le Castellet: 1020 km
+Le Castellet → Silverstone: 1104 km
+Silverstone → Nürburg: 587 km
+Nürburg → Spielberg: 668 km
+Spielberg → Monza: 456 km
+Monza → Ontario: 6562 km
+Ontario → New York State: 237 km
+Total: 20080 km
+SEZÓNA 1972
+Buenos Aires → Midrand: 8105 km
+Midrand → Madrid: 8096 km
+Madrid → Monte-Carlo: 970 km
+Monte-Carlo → Brussels: 800 km
+Brussels → Clermont-Ferrand: 550 km
+Clermont-Ferrand → Kent: 656 km
+Kent → Nürburg: 482 km
+Nürburg → Spielberg: 668 km
+Spielberg → Monza: 456 km
+Monza → Ontario: 6562 km
+Ontario → New York State: 237 km
+Total: 27586 km
+SEZÓNA 1973
+Buenos Aires → São Paulo: 1669 km
+São Paulo → Midrand: 7439 km
+Midrand → Barcelona: 7951 km
+Barcelona → Heusden-Zolder: 1096 km
+Heusden-Zolder → Monte-Carlo: 822 km
+Monte-Carlo → Anderstorp: 1565 km
+Anderstorp → Le Castellet: 1651 km
+Le Castellet → Silverstone: 1104 km
+Silverstone → Zandvoort: 379 km
+Zandvoort → Nürburg: 282 km
+Nürburg → Spielberg: 668 km
+Spielberg → Monza: 456 km
+Monza → Ontario: 6562 km
+Ontario → New York State: 237 km
+Total: 31889 km
+SEZÓNA 1974
+Buenos Aires → São Paulo: 1669 km
+São Paulo → Midrand: 7439 km
+Midrand → Madrid: 8096 km
+Madrid → Brussels: 1269 km
+Brussels → Monte-Carlo: 800 km
+Monte-Carlo → Anderstorp: 1565 km
+Anderstorp → Zandvoort: 793 km
+Zandvoort → Dijon: 559 km
+Dijon → Kent: 556 km
+Kent → Nürburg: 482 km
+Nürburg → Spielberg: 668 km
+Spielberg → Monza: 456 km
+Monza → Ontario: 6562 km
+Ontario → New York State: 237 km
+Total: 31157 km
+SEZÓNA 1975
+Buenos Aires → São Paulo: 1669 km
+São Paulo → Midrand: 7439 km
+Midrand → Barcelona: 7951 km
+Barcelona → Monte-Carlo: 505 km
+Monte-Carlo → Heusden-Zolder: 822 km
+Heusden-Zolder → Anderstorp: 883 km
+Anderstorp → Zandvoort: 793 km
+Zandvoort → Le Castellet: 1020 km
+Le Castellet → Silverstone: 1104 km
+Silverstone → Nürburg: 587 km
+Nürburg → Spielberg: 668 km
+Spielberg → Monza: 456 km
+Monza → New York State: 6557 km
+Total: 30460 km
+SEZÓNA 1976
+São Paulo → Midrand: 7439 km
+Midrand → California: 16666 km
+California → Madrid: 9375 km
+Madrid → Heusden-Zolder: 1339 km
+Heusden-Zolder → Monte-Carlo: 822 km
+Monte-Carlo → Anderstorp: 1565 km
+Anderstorp → Le Castellet: 1651 km
+Le Castellet → Kent: 992 km
+Kent → Nürburg: 482 km
+Nürburg → Spielberg: 668 km
+Spielberg → Zandvoort: 930 km
+Zandvoort → Monza: 828 km
+Monza → Ontario: 6562 km
+Ontario → New York State: 237 km
+New York State → Oyama: 10637 km
+Total: 60199 km
+SEZÓNA 1977
+Buenos Aires → São Paulo: 1669 km
+São Paulo → Midrand: 7439 km
+Midrand → California: 16666 km
+California → Madrid: 9375 km
+Madrid → Monte-Carlo: 970 km
+Monte-Carlo → Heusden-Zolder: 822 km
+Heusden-Zolder → Anderstorp: 883 km
+Anderstorp → Dijon: 1247 km
+Dijon → Silverstone: 674 km
+Silverstone → Hockenheim: 740 km
+Hockenheim → Spielberg: 514 km
+Spielberg → Zandvoort: 930 km
+Zandvoort → Monza: 828 km
+Monza → New York State: 6557 km
+New York State → Ontario: 237 km
+Ontario → Oyama: 10401 km
+Total: 59959 km
+SEZÓNA 1978
+Buenos Aires → Rio de Janeiro: 1958 km
+Rio de Janeiro → Midrand: 7147 km
+Midrand → California: 16666 km
+California → Monte-Carlo: 9787 km
+Monte-Carlo → Heusden-Zolder: 822 km
+Heusden-Zolder → Madrid: 1339 km
+Madrid → Anderstorp: 2222 km
+Anderstorp → Le Castellet: 1651 km
+Le Castellet → Kent: 992 km
+Kent → Hockenheim: 630 km
+Hockenheim → Spielberg: 514 km
+Spielberg → Zandvoort: 930 km
+Zandvoort → Monza: 828 km
+Monza → New York State: 6557 km
+New York State → Montreal: 444 km
+Total: 52494 km
+SEZÓNA 1979
+Buenos Aires → São Paulo: 1669 km
+São Paulo → Midrand: 7439 km
+Midrand → California: 16666 km
+California → Madrid: 9375 km
+Madrid → Heusden-Zolder: 1339 km
+Heusden-Zolder → Monte-Carlo: 822 km
+Monte-Carlo → Dijon: 448 km
+Dijon → Silverstone: 674 km
+Silverstone → Hockenheim: 740 km
+Hockenheim → Spielberg: 514 km
+Spielberg → Zandvoort: 930 km
+Zandvoort → Monza: 828 km
+Monza → Montreal: 6134 km
+Montreal → New York State: 444 km
+Total: 48029 km
+SEZÓNA 1980
+Buenos Aires → São Paulo: 1669 km
+São Paulo → Midrand: 7439 km
+Midrand → California: 16666 km
+California → Heusden-Zolder: 9090 km
+Heusden-Zolder → Monte-Carlo: 822 km
+Monte-Carlo → Le Castellet: 141 km
+Le Castellet → Kent: 992 km
+Kent → Hockenheim: 630 km
+Hockenheim → Spielberg: 514 km
+Spielberg → Zandvoort: 930 km
+Zandvoort → Imola: 1038 km
+Imola → Montreal: 6372 km
+Montreal → New York State: 444 km
+Total: 46754 km
+SEZÓNA 1981
+California → Rio de Janeiro: 10110 km
+Rio de Janeiro → Buenos Aires: 1958 km
+Buenos Aires → Imola: 11280 km
+Imola → Heusden-Zolder: 882 km
+Heusden-Zolder → Monte-Carlo: 822 km
+Monte-Carlo → Madrid: 970 km
+Madrid → Dijon: 1010 km
+Dijon → Silverstone: 674 km
+Silverstone → Hockenheim: 740 km
+Hockenheim → Spielberg: 514 km
+Spielberg → Zandvoort: 930 km
+Zandvoort → Monza: 828 km
+Monza → Montreal: 6134 km
+Montreal → Nevada: 3612 km
+Total: 40470 km
+SEZÓNA 1982
+Midrand → Rio de Janeiro: 7147 km
+Rio de Janeiro → California: 10110 km
+California → Imola: 9962 km
+Imola → Heusden-Zolder: 882 km
+Heusden-Zolder → Monte-Carlo: 822 km
+Monte-Carlo → Detroit: 6953 km
+Detroit → Montreal: 839 km
+Montreal → Zandvoort: 5470 km
+Zandvoort → Kent: 315 km
+Kent → Le Castellet: 992 km
+Le Castellet → Hockenheim: 708 km
+Hockenheim → Spielberg: 514 km
+Spielberg → Dijon: 743 km
+Dijon → Monza: 387 km
+Monza → Nevada: 9359 km
+Total: 55210 km
+SEZÓNA 1983
+Rio de Janeiro → California: 10110 km
+California → Le Castellet: 9737 km
+Le Castellet → Imola: 490 km
+Imola → Monte-Carlo: 349 km
+Monte-Carlo → Spa: 753 km
+Spa → Detroit: 6469 km
+Detroit → Montreal: 839 km
+Montreal → Silverstone: 5137 km
+Silverstone → Hockenheim: 740 km
+Hockenheim → Spielberg: 514 km
+Spielberg → Zandvoort: 930 km
+Zandvoort → Monza: 828 km
+Monza → Kent: 920 km
+Kent → Midrand: 9021 km
+Total: 46843 km
+SEZÓNA 1984
+Rio de Janeiro → Midrand: 7147 km
+Midrand → Heusden-Zolder: 8847 km
+Heusden-Zolder → Imola: 882 km
+Imola → Dijon: 625 km
+Dijon → Monte-Carlo: 448 km
+Monte-Carlo → Montreal: 6121 km
+Montreal → Detroit: 839 km
+Detroit → Dallas: 1605 km
+Dallas → Kent: 7670 km
+Kent → Hockenheim: 630 km
+Hockenheim → Spielberg: 514 km
+Spielberg → Zandvoort: 930 km
+Zandvoort → Monza: 828 km
+Monza → Nürburg: 552 km
+Nürburg → Estoril: 1818 km
+Total: 39464 km
+SEZÓNA 1985
+Rio de Janeiro → Estoril: 7723 km
+Estoril → Imola: 1857 km
+Imola → Monte-Carlo: 349 km
+Monte-Carlo → Montreal: 6121 km
+Montreal → Detroit: 839 km
+Detroit → Le Castellet: 6873 km
+Le Castellet → Silverstone: 1104 km
+Silverstone → Nürburg: 587 km
+Nürburg → Spielberg: 668 km
+Spielberg → Zandvoort: 930 km
+Zandvoort → Monza: 828 km
+Monza → Spa: 589 km
+Spa → Kent: 413 km
+Kent → Midrand: 9021 km
+Midrand → Adelaide: 10056 km
+Total: 47965 km
+SEZÓNA 1986
+Rio de Janeiro → Jerez de la Frontera: 7706 km
+Jerez de la Frontera → Imola: 1718 km
+Imola → Monte-Carlo: 349 km
+Monte-Carlo → Spa: 753 km
+Spa → Montreal: 5655 km
+Montreal → Detroit: 839 km
+Detroit → Le Castellet: 6873 km
+Le Castellet → Kent: 992 km
+Kent → Hockenheim: 630 km
+Hockenheim → Budapest: 810 km
+Budapest → Spielberg: 339 km
+Spielberg → Monza: 456 km
+Monza → Estoril: 1712 km
+Estoril → Mexico City: 8647 km
+Mexico City → Adelaide: 14133 km
+Total: 51619 km
+SEZÓNA 1987
+Rio de Janeiro → Imola: 9345 km
+Imola → Spa: 803 km
+Spa → Monte-Carlo: 753 km
+Monte-Carlo → Detroit: 6953 km
+Detroit → Le Castellet: 6873 km
+Le Castellet → Silverstone: 1104 km
+Silverstone → Hockenheim: 740 km
+Hockenheim → Budapest: 810 km
+Budapest → Spielberg: 339 km
+Spielberg → Monza: 456 km
+Monza → Estoril: 1712 km
+Estoril → Jerez de la Frontera: 372 km
+Jerez de la Frontera → Mexico City: 8994 km
+Mexico City → Suzuka: 11598 km
+Suzuka → Adelaide: 7761 km
+Total: 58619 km
+SEZÓNA 1988
+Rio de Janeiro → Imola: 9345 km
+Imola → Monte-Carlo: 349 km
+Monte-Carlo → Mexico City: 9778 km
+Mexico City → Montreal: 3731 km
+Montreal → Detroit: 839 km
+Detroit → Le Castellet: 6873 km
+Le Castellet → Silverstone: 1104 km
+Silverstone → Hockenheim: 740 km
+Hockenheim → Budapest: 810 km
+Budapest → Spa: 1017 km
+Spa → Monza: 589 km
+Monza → Estoril: 1712 km
+Estoril → Jerez de la Frontera: 372 km
+Jerez de la Frontera → Suzuka: 11167 km
+Suzuka → Adelaide: 7761 km
+Total: 56193 km
+SEZÓNA 1989
+Rio de Janeiro → Imola: 9345 km
+Imola → Monte-Carlo: 349 km
+Monte-Carlo → Mexico City: 9778 km
+Mexico City → Phoenix: 2023 km
+Phoenix → Montreal: 3528 km
+Montreal → Le Castellet: 6039 km
+Le Castellet → Silverstone: 1104 km
+Silverstone → Hockenheim: 740 km
+Hockenheim → Budapest: 810 km
+Budapest → Spa: 1017 km
+Spa → Monza: 589 km
+Monza → Estoril: 1712 km
+Estoril → Jerez de la Frontera: 372 km
+Jerez de la Frontera → Suzuka: 11167 km
+Suzuka → Adelaide: 7761 km
+Total: 56341 km
+SEZÓNA 1990
+Phoenix → São Paulo: 9390 km
+São Paulo → Imola: 9612 km
+Imola → Monte-Carlo: 349 km
+Monte-Carlo → Montreal: 6121 km
+Montreal → Mexico City: 3731 km
+Mexico City → Le Castellet: 9681 km
+Le Castellet → Silverstone: 1104 km
+Silverstone → Hockenheim: 740 km
+Hockenheim → Budapest: 810 km
+Budapest → Spa: 1017 km
+Spa → Monza: 589 km
+Monza → Estoril: 1712 km
+Estoril → Jerez de la Frontera: 372 km
+Jerez de la Frontera → Suzuka: 11167 km
+Suzuka → Adelaide: 7761 km
+Total: 64163 km
+SEZÓNA 1991
+Phoenix → São Paulo: 9390 km
+São Paulo → Imola: 9612 km
+Imola → Monte-Carlo: 349 km
+Monte-Carlo → Montreal: 6121 km
+Montreal → Mexico City: 3731 km
+Mexico City → Magny Cours: 9333 km
+Magny Cours → Silverstone: 653 km
+Silverstone → Hockenheim: 740 km
+Hockenheim → Budapest: 810 km
+Budapest → Spa: 1017 km
+Spa → Monza: 589 km
+Monza → Estoril: 1712 km
+Estoril → Montmeló: 1037 km
+Montmeló → Suzuka: 10323 km
+Suzuka → Adelaide: 7761 km
+Total: 63186 km
+SEZÓNA 1992
+Midrand → Mexico City: 14581 km
+Mexico City → São Paulo: 7430 km
+São Paulo → Montmeló: 8834 km
+Montmeló → Imola: 828 km
+Imola → Monte-Carlo: 349 km
+Monte-Carlo → Montreal: 6121 km
+Montreal → Magny Cours: 5658 km
+Magny Cours → Silverstone: 653 km
+Silverstone → Hockenheim: 740 km
+Hockenheim → Budapest: 810 km
+Budapest → Spa: 1017 km
+Spa → Monza: 589 km
+Monza → Estoril: 1712 km
+Estoril → Suzuka: 11112 km
+Suzuka → Adelaide: 7761 km
+Total: 68203 km
+SEZÓNA 1993
+Midrand → São Paulo: 7439 km
+São Paulo → Castle Donington: 9570 km
+Castle Donington → Imola: 1344 km
+Imola → Montmeló: 828 km
+Montmeló → Monte-Carlo: 485 km
+Monte-Carlo → Montreal: 6121 km
+Montreal → Magny Cours: 5658 km
+Magny Cours → Silverstone: 653 km
+Silverstone → Hockenheim: 740 km
+Hockenheim → Budapest: 810 km
+Budapest → Spa: 1017 km
+Spa → Monza: 589 km
+Monza → Estoril: 1712 km
+Estoril → Suzuka: 11112 km
+Suzuka → Adelaide: 7761 km
+Total: 55845 km
+SEZÓNA 1994
+São Paulo → Okayama: 18765 km
+Okayama → Imola: 9465 km
+Imola → Monte-Carlo: 349 km
+Monte-Carlo → Montmeló: 485 km
+Montmeló → Montreal: 5891 km
+Montreal → Magny Cours: 5658 km
+Magny Cours → Silverstone: 653 km
+Silverstone → Hockenheim: 740 km
+Hockenheim → Budapest: 810 km
+Budapest → Spa: 1017 km
+Spa → Monza: 589 km
+Monza → Estoril: 1712 km
+Estoril → Jerez de la Frontera: 372 km
+Jerez de la Frontera → Suzuka: 11167 km
+Suzuka → Adelaide: 7761 km
+Total: 65441 km
+SEZÓNA 1995
+São Paulo → Buenos Aires: 1669 km
+Buenos Aires → Imola: 11280 km
+Imola → Montmeló: 828 km
+Montmeló → Monte-Carlo: 485 km
+Monte-Carlo → Montreal: 6121 km
+Montreal → Magny Cours: 5658 km
+Magny Cours → Silverstone: 653 km
+Silverstone → Hockenheim: 740 km
+Hockenheim → Budapest: 810 km
+Budapest → Spa: 1017 km
+Spa → Monza: 589 km
+Monza → Estoril: 1712 km
+Estoril → Nürburg: 1818 km
+Nürburg → Okayama: 9217 km
+Okayama → Suzuka: 211 km
+Suzuka → Adelaide: 7761 km
+Total: 50577 km
+SEZÓNA 1996
+Melbourne → São Paulo: 13062 km
+São Paulo → Buenos Aires: 1669 km
+Buenos Aires → Nürburg: 11419 km
+Nürburg → Imola: 756 km
+Imola → Monte-Carlo: 349 km
+Monte-Carlo → Montmeló: 485 km
+Montmeló → Montreal: 5891 km
+Montreal → Magny Cours: 5658 km
+Magny Cours → Silverstone: 653 km
+Silverstone → Hockenheim: 740 km
+Hockenheim → Budapest: 810 km
+Budapest → Spa: 1017 km
+Spa → Monza: 589 km
+Monza → Estoril: 1712 km
+Estoril → Suzuka: 11112 km
+Total: 55930 km
+SEZÓNA 1997
+Melbourne → São Paulo: 13062 km
+São Paulo → Buenos Aires: 1669 km
+Buenos Aires → Imola: 11280 km
+Imola → Monte-Carlo: 349 km
+Monte-Carlo → Montmeló: 485 km
+Montmeló → Montreal: 5891 km
+Montreal → Magny Cours: 5658 km
+Magny Cours → Silverstone: 653 km
+Silverstone → Hockenheim: 740 km
+Hockenheim → Budapest: 810 km
+Budapest → Spa: 1017 km
+Spa → Monza: 589 km
+Monza → Spielberg: 456 km
+Spielberg → Nürburg: 668 km
+Nürburg → Suzuka: 9331 km
+Suzuka → Jerez de la Frontera: 11167 km
+Total: 63834 km
+SEZÓNA 1998
+Melbourne → São Paulo: 13062 km
+São Paulo → Buenos Aires: 1669 km
+Buenos Aires → Imola: 11280 km
+Imola → Montmeló: 828 km
+Montmeló → Monte-Carlo: 485 km
+Monte-Carlo → Montreal: 6121 km
+Montreal → Magny Cours: 5658 km
+Magny Cours → Silverstone: 653 km
+Silverstone → Spielberg: 1254 km
+Spielberg → Hockenheim: 514 km
+Hockenheim → Budapest: 810 km
+Budapest → Spa: 1017 km
+Spa → Monza: 589 km
+Monza → Nürburg: 552 km
+Nürburg → Suzuka: 9331 km
+Total: 53832 km
+SEZÓNA 1999
+Melbourne → São Paulo: 13062 km
+São Paulo → Imola: 9612 km
+Imola → Monte-Carlo: 349 km
+Monte-Carlo → Montmeló: 485 km
+Montmeló → Montreal: 5891 km
+Montreal → Magny Cours: 5658 km
+Magny Cours → Silverstone: 653 km
+Silverstone → Spielberg: 1254 km
+Spielberg → Hockenheim: 514 km
+Hockenheim → Budapest: 810 km
+Budapest → Spa: 1017 km
+Spa → Monza: 589 km
+Monza → Nürburg: 552 km
+Nürburg → Kuala Lumpur: 10110 km
+Kuala Lumpur → Suzuka: 5061 km
+Total: 55627 km
+SEZÓNA 2000
+Melbourne → São Paulo: 13062 km
+São Paulo → Imola: 9612 km
+Imola → Silverstone: 1273 km
+Silverstone → Montmeló: 1194 km
+Montmeló → Nürburg: 1039 km
+Nürburg → Monte-Carlo: 734 km
+Monte-Carlo → Montreal: 6121 km
+Montreal → Magny Cours: 5658 km
+Magny Cours → Spielberg: 879 km
+Spielberg → Hockenheim: 514 km
+Hockenheim → Budapest: 810 km
+Budapest → Spa: 1017 km
+Spa → Monza: 589 km
+Monza → Indianapolis: 7345 km
+Indianapolis → Suzuka: 10627 km
+Suzuka → Kuala Lumpur: 5061 km
+Total: 65545 km
+SEZÓNA 2001
+Melbourne → Kuala Lumpur: 6334 km
+Kuala Lumpur → São Paulo: 15901 km
+São Paulo → Imola: 9612 km
+Imola → Montmeló: 828 km
+Montmeló → Spielberg: 1173 km
+Spielberg → Monte-Carlo: 690 km
+Monte-Carlo → Montreal: 6121 km
+Montreal → Nürburg: 5721 km
+Nürburg → Magny Cours: 475 km
+Magny Cours → Silverstone: 653 km
+Silverstone → Hockenheim: 740 km
+Hockenheim → Budapest: 810 km
+Budapest → Spa: 1017 km
+Spa → Monza: 589 km
+Monza → Indianapolis: 7345 km
+Indianapolis → Suzuka: 10627 km
+Total: 68644 km
+SEZÓNA 2002
+Melbourne → Kuala Lumpur: 6334 km
+Kuala Lumpur → São Paulo: 15901 km
+São Paulo → Imola: 9612 km
+Imola → Montmeló: 828 km
+Montmeló → Spielberg: 1173 km
+Spielberg → Monte-Carlo: 690 km
+Monte-Carlo → Montreal: 6121 km
+Montreal → Nürburg: 5721 km
+Nürburg → Silverstone: 587 km
+Silverstone → Magny Cours: 653 km
+Magny Cours → Hockenheim: 485 km
+Hockenheim → Budapest: 810 km
+Budapest → Spa: 1017 km
+Spa → Monza: 589 km
+Monza → Indianapolis: 7345 km
+Indianapolis → Suzuka: 10627 km
+Total: 68501 km
+SEZÓNA 2003
+Melbourne → Kuala Lumpur: 6334 km
+Kuala Lumpur → São Paulo: 15901 km
+São Paulo → Imola: 9612 km
+Imola → Montmeló: 828 km
+Montmeló → Spielberg: 1173 km
+Spielberg → Monte-Carlo: 690 km
+Monte-Carlo → Montreal: 6121 km
+Montreal → Nürburg: 5721 km
+Nürburg → Magny Cours: 475 km
+Magny Cours → Silverstone: 653 km
+Silverstone → Hockenheim: 740 km
+Hockenheim → Budapest: 810 km
+Budapest → Monza: 791 km
+Monza → Indianapolis: 7345 km
+Indianapolis → Suzuka: 10627 km
+Total: 67829 km
+SEZÓNA 2004
+Melbourne → Kuala Lumpur: 6334 km
+Kuala Lumpur → Sakhir: 6040 km
+Sakhir → Imola: 4018 km
+Imola → Montmeló: 828 km
+Montmeló → Monte-Carlo: 485 km
+Monte-Carlo → Nürburg: 734 km
+Nürburg → Montreal: 5721 km
+Montreal → Indianapolis: 1215 km
+Indianapolis → Magny Cours: 6871 km
+Magny Cours → Silverstone: 653 km
+Silverstone → Hockenheim: 740 km
+Hockenheim → Budapest: 810 km
+Budapest → Spa: 1017 km
+Spa → Monza: 589 km
+Monza → Shanghai: 9058 km
+Shanghai → Suzuka: 1477 km
+Suzuka → São Paulo: 18737 km
+Total: 65336 km
+SEZÓNA 2005
+Melbourne → Kuala Lumpur: 6334 km
+Kuala Lumpur → Sakhir: 6040 km
+Sakhir → Imola: 4018 km
+Imola → Montmeló: 828 km
+Montmeló → Monte-Carlo: 485 km
+Monte-Carlo → Nürburg: 734 km
+Nürburg → Montreal: 5721 km
+Montreal → Indianapolis: 1215 km
+Indianapolis → Magny Cours: 6871 km
+Magny Cours → Silverstone: 653 km
+Silverstone → Hockenheim: 740 km
+Hockenheim → Budapest: 810 km
+Budapest → Istanbul: 1092 km
+Istanbul → Monza: 1704 km
+Monza → Spa: 589 km
+Spa → São Paulo: 9728 km
+São Paulo → Suzuka: 18737 km
+Suzuka → Shanghai: 1477 km
+Total: 67786 km
+SEZÓNA 2006
+Sakhir → Kuala Lumpur: 6040 km
+Kuala Lumpur → Melbourne: 6334 km
+Melbourne → Imola: 16086 km
+Imola → Nürburg: 756 km
+Nürburg → Montmeló: 1039 km
+Montmeló → Monte-Carlo: 485 km
+Monte-Carlo → Silverstone: 1119 km
+Silverstone → Montreal: 5137 km
+Montreal → Indianapolis: 1215 km
+Indianapolis → Magny Cours: 6871 km
+Magny Cours → Hockenheim: 485 km
+Hockenheim → Budapest: 810 km
+Budapest → Istanbul: 1092 km
+Istanbul → Monza: 1704 km
+Monza → Shanghai: 9058 km
+Shanghai → Suzuka: 1477 km
+Suzuka → São Paulo: 18737 km
+Total: 78453 km
+SEZÓNA 2007
+Melbourne → Kuala Lumpur: 6334 km
+Kuala Lumpur → Sakhir: 6040 km
+Sakhir → Montmeló: 4710 km
+Montmeló → Monte-Carlo: 485 km
+Monte-Carlo → Montreal: 6121 km
+Montreal → Indianapolis: 1215 km
+Indianapolis → Magny Cours: 6871 km
+Magny Cours → Silverstone: 653 km
+Silverstone → Nürburg: 587 km
+Nürburg → Budapest: 947 km
+Budapest → Istanbul: 1092 km
+Istanbul → Monza: 1704 km
+Monza → Spa: 589 km
+Spa → Oyama: 9418 km
+Oyama → Shanghai: 1701 km
+Shanghai → São Paulo: 18553 km
+Total: 67030 km
+SEZÓNA 2008
+Melbourne → Kuala Lumpur: 6334 km
+Kuala Lumpur → Sakhir: 6040 km
+Sakhir → Montmeló: 4710 km
+Montmeló → Istanbul: 2260 km
+Istanbul → Monte-Carlo: 1827 km
+Monte-Carlo → Montreal: 6121 km
+Montreal → Magny Cours: 5658 km
+Magny Cours → Silverstone: 653 km
+Silverstone → Hockenheim: 740 km
+Hockenheim → Budapest: 810 km
+Budapest → Valencia: 1811 km
+Valencia → Spa: 1316 km
+Spa → Monza: 589 km
+Monza → Marina Bay: 10260 km
+Marina Bay → Oyama: 5240 km
+Oyama → Shanghai: 1701 km
+Shanghai → São Paulo: 18553 km
+Total: 74634 km
+SEZÓNA 2009
+Melbourne → Kuala Lumpur: 6334 km
+Kuala Lumpur → Shanghai: 3777 km
+Shanghai → Sakhir: 6804 km
+Sakhir → Montmeló: 4710 km
+Montmeló → Monte-Carlo: 485 km
+Monte-Carlo → Istanbul: 1827 km
+Istanbul → Silverstone: 2609 km
+Silverstone → Nürburg: 587 km
+Nürburg → Budapest: 947 km
+Budapest → Valencia: 1811 km
+Valencia → Spa: 1316 km
+Spa → Monza: 589 km
+Monza → Marina Bay: 10260 km
+Marina Bay → Suzuka: 5035 km
+Suzuka → São Paulo: 18737 km
+São Paulo → Abu Dhabi: 12149 km
+Total: 77986 km
+SEZÓNA 2010
+Sakhir → Melbourne: 12112 km
+Melbourne → Kuala Lumpur: 6334 km
+Kuala Lumpur → Shanghai: 3777 km
+Shanghai → Montmeló: 9779 km
+Montmeló → Monte-Carlo: 485 km
+Monte-Carlo → Istanbul: 1827 km
+Istanbul → Montreal: 7735 km
+Montreal → Valencia: 5829 km
+Valencia → Silverstone: 1404 km
+Silverstone → Hockenheim: 740 km
+Hockenheim → Budapest: 810 km
+Budapest → Spa: 1017 km
+Spa → Monza: 589 km
+Monza → Marina Bay: 10260 km
+Marina Bay → Suzuka: 5035 km
+Suzuka → Yeongam County: 924 km
+Yeongam County → São Paulo: 18619 km
+São Paulo → Abu Dhabi: 12149 km
+Total: 99435 km
+SEZÓNA 2011
+Melbourne → Kuala Lumpur: 6334 km
+Kuala Lumpur → Shanghai: 3777 km
+Shanghai → Istanbul: 7929 km
+Istanbul → Montmeló: 2260 km
+Montmeló → Monte-Carlo: 485 km
+Monte-Carlo → Montreal: 6121 km
+Montreal → Valencia: 5829 km
+Valencia → Silverstone: 1404 km
+Silverstone → Nürburg: 587 km
+Nürburg → Budapest: 947 km
+Budapest → Spa: 1017 km
+Spa → Monza: 589 km
+Monza → Marina Bay: 10260 km
+Marina Bay → Suzuka: 5035 km
+Suzuka → Yeongam County: 924 km
+Yeongam County → Uttar Pradesh: 4641 km
+Uttar Pradesh → Abu Dhabi: 2320 km
+Abu Dhabi → São Paulo: 12149 km
+Total: 72617 km
+SEZÓNA 2012
+Melbourne → Kuala Lumpur: 6334 km
+Kuala Lumpur → Shanghai: 3777 km
+Shanghai → Sakhir: 6804 km
+Sakhir → Montmeló: 4710 km
+Montmeló → Monte-Carlo: 485 km
+Monte-Carlo → Montreal: 6121 km
+Montreal → Valencia: 5829 km
+Valencia → Silverstone: 1404 km
+Silverstone → Hockenheim: 740 km
+Hockenheim → Budapest: 810 km
+Budapest → Spa: 1017 km
+Spa → Monza: 589 km
+Monza → Marina Bay: 10260 km
+Marina Bay → Suzuka: 5035 km
+Suzuka → Yeongam County: 924 km
+Yeongam County → Uttar Pradesh: 4641 km
+Uttar Pradesh → Abu Dhabi: 2320 km
+Abu Dhabi → Austin: 13260 km
+Austin → São Paulo: 8085 km
+Total: 83156 km
+SEZÓNA 2013
+Melbourne → Kuala Lumpur: 6334 km
+Kuala Lumpur → Shanghai: 3777 km
+Shanghai → Sakhir: 6804 km
+Sakhir → Montmeló: 4710 km
+Montmeló → Monte-Carlo: 485 km
+Monte-Carlo → Montreal: 6121 km
+Montreal → Silverstone: 5137 km
+Silverstone → Nürburg: 587 km
+Nürburg → Budapest: 947 km
+Budapest → Spa: 1017 km
+Spa → Monza: 589 km
+Monza → Marina Bay: 10260 km
+Marina Bay → Yeongam County: 4392 km
+Yeongam County → Suzuka: 924 km
+Suzuka → Uttar Pradesh: 5556 km
+Uttar Pradesh → Abu Dhabi: 2320 km
+Abu Dhabi → Austin: 13260 km
+Austin → São Paulo: 8085 km
+Total: 81314 km
+SEZÓNA 2014
+Melbourne → Kuala Lumpur: 6334 km
+Kuala Lumpur → Sakhir: 6040 km
+Sakhir → Shanghai: 6804 km
+Shanghai → Montmeló: 9779 km
+Montmeló → Monte-Carlo: 485 km
+Monte-Carlo → Montreal: 6121 km
+Montreal → Spielberg: 6390 km
+Spielberg → Silverstone: 1254 km
+Silverstone → Hockenheim: 740 km
+Hockenheim → Budapest: 810 km
+Budapest → Spa: 1017 km
+Spa → Monza: 589 km
+Monza → Marina Bay: 10260 km
+Marina Bay → Suzuka: 5035 km
+Suzuka → Sochi: 7903 km
+Sochi → Austin: 10767 km
+Austin → São Paulo: 8085 km
+São Paulo → Abu Dhabi: 12149 km
+Total: 100573 km
+SEZÓNA 2015
+Melbourne → Kuala Lumpur: 6334 km
+Kuala Lumpur → Shanghai: 3777 km
+Shanghai → Sakhir: 6804 km
+Sakhir → Montmeló: 4710 km
+Montmeló → Monte-Carlo: 485 km
+Monte-Carlo → Montreal: 6121 km
+Montreal → Spielberg: 6390 km
+Spielberg → Silverstone: 1254 km
+Silverstone → Budapest: 1531 km
+Budapest → Spa: 1017 km
+Spa → Monza: 589 km
+Monza → Marina Bay: 10260 km
+Marina Bay → Suzuka: 5035 km
+Suzuka → Sochi: 7903 km
+Sochi → Austin: 10767 km
+Austin → Mexico City: 1201 km
+Mexico City → São Paulo: 7430 km
+São Paulo → Abu Dhabi: 12149 km
+Total: 93769 km
+SEZÓNA 2016
+Melbourne → Sakhir: 12112 km
+Sakhir → Shanghai: 6804 km
+Shanghai → Sochi: 7021 km
+Sochi → Montmeló: 3071 km
+Montmeló → Monte-Carlo: 485 km
+Monte-Carlo → Montreal: 6121 km
+Montreal → Baku: 8930 km
+Baku → Spielberg: 2890 km
+Spielberg → Silverstone: 1254 km
+Silverstone → Budapest: 1531 km
+Budapest → Hockenheim: 810 km
+Hockenheim → Spa: 223 km
+Spa → Monza: 589 km
+Monza → Marina Bay: 10260 km
+Marina Bay → Kuala Lumpur: 287 km
+Kuala Lumpur → Suzuka: 5061 km
+Suzuka → Austin: 10829 km
+Austin → Mexico City: 1201 km
+Mexico City → São Paulo: 7430 km
+São Paulo → Abu Dhabi: 12149 km
+Total: 99069 km
+SEZÓNA 2017
+Melbourne → Shanghai: 8078 km
+Shanghai → Sakhir: 6804 km
+Sakhir → Sochi: 2154 km
+Sochi → Montmeló: 3071 km
+Montmeló → Monte-Carlo: 485 km
+Monte-Carlo → Montreal: 6121 km
+Montreal → Baku: 8930 km
+Baku → Spielberg: 2890 km
+Spielberg → Silverstone: 1254 km
+Silverstone → Budapest: 1531 km
+Budapest → Spa: 1017 km
+Spa → Monza: 589 km
+Monza → Marina Bay: 10260 km
+Marina Bay → Kuala Lumpur: 287 km
+Kuala Lumpur → Suzuka: 5061 km
+Suzuka → Austin: 10829 km
+Austin → Mexico City: 1201 km
+Mexico City → São Paulo: 7430 km
+São Paulo → Abu Dhabi: 12149 km
+Total: 90152 km
+SEZÓNA 2018
+Melbourne → Sakhir: 12112 km
+Sakhir → Shanghai: 6804 km
+Shanghai → Baku: 6336 km
+Baku → Montmeló: 3946 km
+Montmeló → Monte-Carlo: 485 km
+Monte-Carlo → Montreal: 6121 km
+Montreal → Le Castellet: 6039 km
+Le Castellet → Spielberg: 828 km
+Spielberg → Silverstone: 1254 km
+Silverstone → Hockenheim: 740 km
+Hockenheim → Budapest: 810 km
+Budapest → Spa: 1017 km
+Spa → Monza: 589 km
+Monza → Marina Bay: 10260 km
+Marina Bay → Sochi: 7831 km
+Sochi → Suzuka: 7903 km
+Suzuka → Austin: 10829 km
+Austin → Mexico City: 1201 km
+Mexico City → São Paulo: 7430 km
+São Paulo → Abu Dhabi: 12149 km
+Total: 104696 km
+SEZÓNA 2019
+Melbourne → Sakhir: 12112 km
+Sakhir → Shanghai: 6804 km
+Shanghai → Baku: 6336 km
+Baku → Montmeló: 3946 km
+Montmeló → Monte-Carlo: 485 km
+Monte-Carlo → Montreal: 6121 km
+Montreal → Le Castellet: 6039 km
+Le Castellet → Spielberg: 828 km
+Spielberg → Silverstone: 1254 km
+Silverstone → Hockenheim: 740 km
+Hockenheim → Budapest: 810 km
+Budapest → Spa: 1017 km
+Spa → Monza: 589 km
+Monza → Marina Bay: 10260 km
+Marina Bay → Sochi: 7831 km
+Sochi → Suzuka: 7903 km
+Suzuka → Mexico City: 11598 km
+Mexico City → Austin: 1201 km
+Austin → São Paulo: 8085 km
+São Paulo → Abu Dhabi: 12149 km
+Total: 106120 km
+SEZÓNA 2020
+Spielberg → Spielberg: 0 km
+Spielberg → Budapest: 339 km
+Budapest → Silverstone: 1531 km
+Silverstone → Silverstone: 0 km
+Silverstone → Montmeló: 1194 km
+Montmeló → Spa: 1026 km
+Spa → Monza: 589 km
+Monza → Mugello: 244 km
+Mugello → Sochi: 2287 km
+Sochi → Nürburg: 2600 km
+Nürburg → Portimão: 1912 km
+Portimão → Imola: 1879 km
+Imola → Istanbul: 1491 km
+Istanbul → Sakhir: 2553 km
+Sakhir → Sakhir: 0 km
+Sakhir → Abu Dhabi: 446 km
+Total: 18098 km
+SEZÓNA 2021
+Sakhir → Imola: 4018 km
+Imola → Portimão: 1879 km
+Portimão → Montmeló: 1051 km
+Montmeló → Monte-Carlo: 485 km
+Monte-Carlo → Baku: 3484 km
+Baku → Le Castellet: 3623 km
+Le Castellet → Spielberg: 828 km
+Spielberg → Spielberg: 0 km
+Spielberg → Silverstone: 1254 km
+Silverstone → Budapest: 1531 km
+Budapest → Spa: 1017 km
+Spa → Zandvoort: 238 km
+Zandvoort → Monza: 828 km
+Monza → Sochi: 2429 km
+Sochi → Istanbul: 910 km
+Istanbul → Austin: 10418 km
+Austin → Mexico City: 1201 km
+Mexico City → São Paulo: 7430 km
+São Paulo → Al Daayen: 11883 km
+Al Daayen → Jeddah: 1329 km
+Jeddah → Abu Dhabi: 1615 km
+Total: 57464 km
+SEZÓNA 2022
+Sakhir → Jeddah: 1258 km
+Jeddah → Melbourne: 12817 km
+Melbourne → Imola: 16086 km
+Imola → Miami: 8172 km
+Miami → Montmeló: 7536 km
+Montmeló → Monte-Carlo: 485 km
+Monte-Carlo → Baku: 3484 km
+Baku → Montreal: 8930 km
+Montreal → Silverstone: 5137 km
+Silverstone → Spielberg: 1254 km
+Spielberg → Le Castellet: 828 km
+Le Castellet → Budapest: 1153 km
+Budapest → Spa: 1017 km
+Spa → Zandvoort: 238 km
+Zandvoort → Monza: 828 km
+Monza → Marina Bay: 10260 km
+Marina Bay → Suzuka: 5035 km
+Suzuka → Austin: 10829 km
+Austin → Mexico City: 1201 km
+Mexico City → São Paulo: 7430 km
+São Paulo → Abu Dhabi: 12149 km
+Total: 116138 km
+SEZÓNA 2023
+Sakhir → Jeddah: 1258 km
+Jeddah → Melbourne: 12817 km
+Melbourne → Baku: 12989 km
+Baku → Miami: 11015 km
+Miami → Imola: 8172 km
+Imola → Monte-Carlo: 349 km
+Monte-Carlo → Montmeló: 485 km
+Montmeló → Montreal: 5891 km
+Montreal → Spielberg: 6390 km
+Spielberg → Silverstone: 1254 km
+Silverstone → Budapest: 1531 km
+Budapest → Spa: 1017 km
+Spa → Zandvoort: 238 km
+Zandvoort → Monza: 828 km
+Monza → Marina Bay: 10260 km
+Marina Bay → Suzuka: 5035 km
+Suzuka → Al Daayen: 8003 km
+Al Daayen → Austin: 13008 km
+Austin → Mexico City: 1201 km
+Mexico City → São Paulo: 7430 km
+São Paulo → Nevada: 9788 km
+Nevada → Abu Dhabi: 13193 km
+Total: 132165 km

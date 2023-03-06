@@ -23,7 +23,7 @@ Oceania = ["Australia", "Australian", "New Zealander"]
 multiple = ["American-Italian", "Argentine-Italian"]
 westernEurope = ["Austria", "Belgium", "Germany", "France", "Italy", "Monaco", "Netherlands", "Portugal", "Spain", "Sweden", "Switzerland", "UK"]
 
-streetCircuits = ["Melbourne", "Miami", "Monte-Carlo", "Montreal", "Valencia", "Marina Bay", "Sochi", "Baku", "Jeddah", "Adelaide", "Phoenix", "Detroit", "Dallas", "Nevada", "California", "Oporto", "Lisbon"]
+streetCircuits = ["Melbourne", "Miami", "Monte-Carlo", "Montreal", "Valencia", "Marina Bay", "Las Vegas", "Sochi", "Baku", "Jeddah", "Adelaide", "Phoenix", "Detroit", "Dallas", "Nevada", "California", "Oporto", "Lisbon"]
 
 # Now we're gonna load the stats… (source: http://ergast.com/mrd/db/#csv):
 
@@ -42,7 +42,7 @@ circuits["circuitUrl"] = circuits["url"]
 circuits["circuit"] = circuits["name"]
 races["gp"] = races["name"]
 races = races.merge(circuits[["circuitId", "circuitRef", "location", "country", "circuitUrl", "circuit"]], on="circuitId", how="inner")
-results = results.merge(races[["raceId","year","round","date","quali_date","quali_time","location","country","gp"]], on="raceId", how="inner")
+results = results.merge(races[["raceId","year","round","date","quali_date","quali_time","location","country","gp","time"]], on="raceId", how="inner")
 results = results.merge(status, on="statusId", how="inner")
 constructors["constructor"] = constructors["name"]
 constructors["constructorUrl"] = constructors["url"]
