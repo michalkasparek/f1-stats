@@ -1,0 +1,15 @@
+_smetí/
+dataErgast/
+*checkpoint*
+*.pyc
+Data Exploration.ipynb
+Current Drivers.ipynb
+Vanilla.ipynb
+Numbers.ipynb
+Data Exploration 2.ipynb
+Qualifying.ipynb
+Home Wins.ipynb
+Lap Times.ipynb
+Driver Ranking ATP Style.ipynb
+__pycache__
+launch.bat
