@@ -1,4 +1,4 @@
-url,wikidata_id
+driverUrl,wikidata_id
 http://en.wikipedia.org/wiki/Lewis_Hamilton,Q9673
 http://en.wikipedia.org/wiki/Nick_Heidfeld,Q75810
 http://en.wikipedia.org/wiki/Nico_Rosberg,Q75820
@@ -139,7 +139,7 @@ http://en.wikipedia.org/wiki/Nelson_Piquet,Q171346
 http://en.wikipedia.org/wiki/Satoru_Nakajima,Q173221
 http://en.wikipedia.org/wiki/Emanuele_Pirro,Q171524
 http://en.wikipedia.org/wiki/Stefan_Johansson,Q171474
-http://en.wikipedia.org/wiki/Julian_Bailey,Q110496268
+http://en.wikipedia.org/wiki/Julian_Bailey_(racing_driver),Q173304
 http://en.wikipedia.org/wiki/Pedro_Chaves,Q456593
 http://en.wikipedia.org/wiki/Michael_Bartels,Q60897
 http://en.wikipedia.org/wiki/Naoki_Hattori,Q516012
@@ -207,7 +207,7 @@ http://en.wikipedia.org/wiki/Brian_Henton,Q171757
 http://en.wikipedia.org/wiki/Derek_Daly,Q171635
 http://en.wikipedia.org/wiki/Mario_Andretti,Q171312
 http://en.wikipedia.org/wiki/Emilio_de_Villota,Q173206
-http://en.wikipedia.org/wiki/Geoff_Lees,Q30708908
+http://en.wikipedia.org/wiki/Geoff_Lees_(racing_driver),Q171837
 http://en.wikipedia.org/wiki/Tommy_Byrne_%28racing_driver%29,Q172167
 http://en.wikipedia.org/wiki/Rupert_Keegan,Q171783
 http://en.wikipedia.org/wiki/Hector_Rebaque,Q171539
@@ -242,7 +242,7 @@ http://en.wikipedia.org/wiki/Danny_Ongais,Q172322
 http://en.wikipedia.org/wiki/Lamberto_Leoni,Q171967
 http://en.wikipedia.org/wiki/Divina_Galica,Q233449
 http://en.wikipedia.org/wiki/Rolf_Stommelen,Q57925
-http://en.wikipedia.org/wiki/Alberto_Colombo,Q1613353
+http://en.wikipedia.org/wiki/Alberto_Colombo_(racing_driver),Q516070
 http://en.wikipedia.org/wiki/Tony_Trimmer,Q509740
 http://en.wikipedia.org/wiki/Hans_Binder,Q78593
 http://en.wikipedia.org/wiki/Michael_Bleekemolen,Q172024
@@ -264,7 +264,7 @@ http://en.wikipedia.org/wiki/Jackie_Oliver,Q171720
 http://en.wikipedia.org/wiki/Mikko_Kozarowitzky,Q518344
 http://en.wikipedia.org/wiki/Andy_Sutcliffe,Q2287026
 http://en.wikipedia.org/wiki/Guy_Edwards,Q171975
-http://en.wikipedia.org/wiki/Brian_McGuire,Q95679566
+http://en.wikipedia.org/wiki/Brian_McGuire_(racing_driver),Q640436
 http://en.wikipedia.org/wiki/Vern_Schuppan,Q172076
 http://en.wikipedia.org/wiki/Hans_Heyer,Q61284
 http://en.wikipedia.org/wiki/Teddy_Pilette,Q172136
@@ -350,7 +350,7 @@ http://en.wikipedia.org/wiki/Fran%C3%A7ois_Mazet,Q172257
 http://en.wikipedia.org/wiki/Max_Jean,Q172074
 http://en.wikipedia.org/wiki/Vic_Elford,Q173244
 http://en.wikipedia.org/wiki/Silvio_Moser,Q173283
-http://en.wikipedia.org/wiki/George_Eaton,Q28151129
+http://en.wikipedia.org/wiki/George_Eaton_(racing_driver),Q172283
 http://en.wikipedia.org/wiki/Pete_Lovely,Q172196
 http://en.wikipedia.org/wiki/Chris_Craft_(racing_driver),Q172309
 http://en.wikipedia.org/wiki/John_Cannon_(auto_racer),Q172525
@@ -399,7 +399,7 @@ http://en.wikipedia.org/wiki/Peter_Arundell,Q173456
 http://en.wikipedia.org/wiki/Vic_Wilson_(motor_racing_driver),Q172486
 http://en.wikipedia.org/wiki/John_Taylor_(racer),Q171774
 http://en.wikipedia.org/wiki/Chris_Lawrence_(racing_driver),Q172364
-http://en.wikipedia.org/wiki/Trevor_Taylor,Q47001334
+http://en.wikipedia.org/wiki/Trevor_Taylor_(racing_driver),Q173442
 http://en.wikipedia.org/wiki/Geki_(driver),Q173342
 http://en.wikipedia.org/wiki/Phil_Hill,Q3112
 http://en.wikipedia.org/wiki/Innes_Ireland,Q173336
@@ -478,12 +478,12 @@ http://en.wikipedia.org/wiki/Stirling_Moss,Q172728
 http://en.wikipedia.org/wiki/Wolfgang_Graf_Berghe_von_Trips,Q57451
 http://en.wikipedia.org/wiki/Cliff_Allison,Q171723
 http://en.wikipedia.org/wiki/Hans_Herrmann,Q65915
-http://en.wikipedia.org/wiki/Tony_Brooks,Q1845218
+http://en.wikipedia.org/wiki/Tony_Brooks_(racing_driver),Q171481
 http://en.wikipedia.org/wiki/Michael_May_(racing_driver),Q173561
 http://en.wikipedia.org/wiki/Henry_Taylor_(racing_driver),Q172405
 http://en.wikipedia.org/wiki/Olivier_Gendebien,Q172142
 http://en.wikipedia.org/wiki/Giorgio_Scarlatti,Q172029
-http://en.wikipedia.org/wiki/Brian_Naylor,Q11962262
+http://en.wikipedia.org/wiki/Brian_Naylor_(racing_driver),Q172054
 http://en.wikipedia.org/wiki/Juan_Manuel_Bordeu,Q636886
 http://en.wikipedia.org/wiki/Jack_Fairman,Q172644
 http://en.wikipedia.org/wiki/Massimo_Natili,Q172624
@@ -508,7 +508,7 @@ http://en.wikipedia.org/wiki/Chris_Bristow,Q172103
 http://en.wikipedia.org/wiki/Bruce_Halford,Q172443
 http://en.wikipedia.org/wiki/Chuck_Daigh,Q172276
 http://en.wikipedia.org/wiki/Lance_Reventlow,Q172592
-http://en.wikipedia.org/wiki/Jim_Rathmann,Q121904990
+http://en.wikipedia.org/wiki/Jim_Rathmann_(racing_driver),Q172510
 http://en.wikipedia.org/wiki/Paul_Goldsmith,Q172557
 http://en.wikipedia.org/wiki/Don_Branson,Q172420
 http://en.wikipedia.org/wiki/Johnny_Thomson,Q172454
@@ -541,11 +541,11 @@ http://en.wikipedia.org/wiki/Al_Herman,Q173719
 http://en.wikipedia.org/wiki/Dempsey_Wilson,Q173711
 http://en.wikipedia.org/wiki/Mike_Taylor_(driver),Q172604
 http://en.wikipedia.org/wiki/Ron_Flockhart_(auto_racing),Q172479
-http://en.wikipedia.org/wiki/David_Piper,Q92784043
+http://en.wikipedia.org/wiki/David_Piper_(racing_driver),Q172288
 http://en.wikipedia.org/wiki/Giulio_Cabianca,Q711156
 http://en.wikipedia.org/wiki/Piero_Drogo,Q172823
 http://en.wikipedia.org/wiki/Fred_Gamble_(racing_driver),Q172799
-http://en.wikipedia.org/wiki/Arthur_Owen,Q93023360
+http://en.wikipedia.org/wiki/Arthur_Owen_(racing_driver),Q173562
 http://en.wikipedia.org/wiki/Horace_Gould,Q172504
 http://en.wikipedia.org/wiki/Bob_Drake_(Formula_One),Q172612
 http://en.wikipedia.org/wiki/Ivor_Bueb,Q172127
@@ -573,7 +573,7 @@ http://en.wikipedia.org/wiki/Bill_Moss_(racing_driver),Q2726763
 http://en.wikipedia.org/wiki/Dennis_Taylor_(racing_driver),Q62742384
 http://en.wikipedia.org/wiki/Harry_Blanchard,Q172384
 http://en.wikipedia.org/wiki/Alessandro_de_Tomaso,Q172234
-http://en.wikipedia.org/wiki/George_Constantine,Q54371669
+http://en.wikipedia.org/wiki/George_Constantine_(racing_driver),Q172817
 http://en.wikipedia.org/wiki/Bob_Said,Q172794
 http://en.wikipedia.org/wiki/Phil_Cade,Q1807265
 http://en.wikipedia.org/wiki/Luigi_Musso,Q171484
@@ -600,10 +600,10 @@ http://en.wikipedia.org/wiki/Pat_O%27Connor_(auto_racer),Q961162
 http://en.wikipedia.org/wiki/Jerry_Unser,Q172441
 http://en.wikipedia.org/wiki/Art_Bisch,Q173590
 http://en.wikipedia.org/wiki/Christian_Goethals,Q172790
-http://en.wikipedia.org/wiki/Dick_Gibson,Q2650277
+http://en.wikipedia.org/wiki/Dick_Gibson_(racing_driver),Q172423
 http://en.wikipedia.org/wiki/Robert_La_Caze,Q172447
 http://en.wikipedia.org/wiki/Andr%C3%A9_Guelfi,Q172450
-http://en.wikipedia.org/wiki/Fran%C3%A7ois_Picard,Q3085553
+http://en.wikipedia.org/wiki/Fran%C3%A7ois_Picard_(racing_driver),Q172270
 http://en.wikipedia.org/wiki/Tom_Bridger,Q172793
 http://en.wikipedia.org/wiki/Alfonso_de_Portago,Q172101
 http://en.wikipedia.org/wiki/Cesare_Perdisa,Q172138
@@ -667,7 +667,7 @@ http://en.wikipedia.org/wiki/Kenneth_McAlpine,Q172259
 http://en.wikipedia.org/wiki/Leslie_Marr,Q172117
 http://en.wikipedia.org/wiki/Tony_Rolt,Q172202
 http://en.wikipedia.org/wiki/John_Fitch_(driver),Q172492
-http://en.wikipedia.org/wiki/Jean_Lucas,Q2376242
+http://en.wikipedia.org/wiki/Jean_Lucas_(racing_driver),Q172350
 http://en.wikipedia.org/wiki/Prince_Bira,Q173204
 http://en.wikipedia.org/wiki/Onofre_Marim%C3%B3n,Q171624
 http://en.wikipedia.org/wiki/Roger_Loyer,Q172829
@@ -678,7 +678,7 @@ http://en.wikipedia.org/wiki/Manny_Ayulo,Q173076
 http://en.wikipedia.org/wiki/Frank_Armi,Q173463
 http://en.wikipedia.org/wiki/Travis_Webb,Q172636
 http://en.wikipedia.org/wiki/Len_Duncan,Q172576
-http://en.wikipedia.org/wiki/Ernie_McCoy,Q107026846
+http://en.wikipedia.org/wiki/Ernie_McCoy_(racing_driver),Q173656
 http://en.wikipedia.org/wiki/Jacques_Swaters,Q172508
 http://en.wikipedia.org/wiki/Georges_Berger,Q172473
 http://en.wikipedia.org/wiki/Don_Beauman,Q172830
@@ -704,7 +704,7 @@ http://en.wikipedia.org/wiki/Bill_Holland,Q173073
 http://en.wikipedia.org/wiki/Bob_Scott_(auto_racer),Q172580
 http://en.wikipedia.org/wiki/Arthur_Legat,Q172281
 http://en.wikipedia.org/wiki/Yves_Giraud_Cabantous,Q171565
-http://en.wikipedia.org/wiki/Tony_Crook,Q30708623
+http://en.wikipedia.org/wiki/Tony_Crook_(racing_driver),Q172379
 http://en.wikipedia.org/wiki/Jimmy_Stewart_(racing_driver),Q172249
 http://en.wikipedia.org/wiki/Ian_Stewart_(racing_driver),Q172808
 http://en.wikipedia.org/wiki/Duncan_Hamilton_(racing_driver),Q171991
@@ -805,7 +805,7 @@ http://en.wikipedia.org/wiki/Dorino_Serafini,Q172185
 http://en.wikipedia.org/wiki/William_Cantrell,Q172546
 http://en.wikipedia.org/wiki/Johnny_Mantz,Q173664
 http://en.wikipedia.org/wiki/Danny_Kladis,Q172566
-http://en.wikipedia.org/wiki/Oscar_Gonz%C3%A1lez_(racing_driver),Q173597
+http://en.wikipedia.org/wiki/%C3%93scar_Gonz%C3%A1lez_(racing_driver),Q173597
 http://en.wikipedia.org/wiki/Nico_H%C3%BClkenberg,Q76547
 http://en.wikipedia.org/wiki/Vitaly_Petrov,Q82901
 http://en.wikipedia.org/wiki/Lucas_di_Grassi,Q172783
@@ -857,3 +857,4 @@ http://en.wikipedia.org/wiki/Nyck_de_Vries,Q771382
 http://en.wikipedia.org/wiki/Oscar_Piastri,Q28741262
 http://en.wikipedia.org/wiki/Logan_Sargeant,Q28037494
 http://en.wikipedia.org/wiki/Liam_Lawson,Q59180330
+http://en.wikipedia.org/wiki/Oliver_Bearman,Q107023292
